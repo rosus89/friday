@@ -1,0 +1,10 @@
+body{
+    display: grid;
+    height: 90vh;
+    justify-content: center;
+    align-content: center;
+    font-size: 18px;
+    font-weight: 700;
+    background: #000;
+    color: #9aee12
+}
